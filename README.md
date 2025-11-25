@@ -10,7 +10,7 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/swethav22/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](linkedin.com/in/krishna-kumar-35ba771b3) 
 [![Youtube](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://www.youtube.com/channel/UC63AiCg6IngBqtKFEvIphCA) 
 [![Youtube](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.youtube.com/channel/UCNTO27wuyXBbWF4IcuP9Q1Q) 
 
