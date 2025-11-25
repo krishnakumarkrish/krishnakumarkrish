@@ -1,5 +1,5 @@
 <img align="right" width="400" height="290" src="./coder_man.gif">
-# 💫 About Me:
+### 💫 About Me:
 <br>
 🔭 I'm Krishna Kumar, Software Engineer, DevOps Engineer, a Youtuber.
 <br>
@@ -10,7 +10,7 @@
 
 
 
-## 🌐 Socials:
+### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishna-kumar-35ba771b3/) 
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC63AiCg6IngBqtKFEvIphCA) 
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCNTO27wuyXBbWF4IcuP9Q1Q) 
@@ -23,7 +23,7 @@
 
 
 
-# 💻 Tech Stack:
+### 💻 Tech Stack:
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
 ![Oracle](https://img.shields.io/badge/oracle-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)
@@ -48,9 +48,9 @@
 ![](https://github-readme-stats.vercel.app/api?username=krishnakumarkrish&theme=merko&hide_border=false&include_all_commits=false&count_private=false)
 
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=swetha&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
+# ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
