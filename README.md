@@ -19,8 +19,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/heartlykrishna/)
 [![Credly](https://img.shields.io/badge/Credly-182C36?logo=credly&logoColor=white)](https://www.credly.com/users/krishna-kumar-m.987abefc/badges#credly)
 [![Behance](https://img.shields.io/badge/Behance-053EFF?logo=behance&logoColor=white)](https://www.behance.net/krishnakumar203)
-
-
 <br>
 <br>
 
@@ -44,21 +42,21 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+<br>
+<br>
 
-<br>
-<br>
 
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=krishnakumarkrish&theme=merko&hide_border=false&include_all_commits=false&count_private=false)
+<br>
+<br>
 
-<br>
-<br>
 
 # 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=swetha&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
+<br>
+<br>
 
-<br>
-<br>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
