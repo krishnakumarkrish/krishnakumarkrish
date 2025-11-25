@@ -8,7 +8,7 @@
 <br>
 👨‍💻 All of my projects are available at https://github.com/krishnakumarkrish
 <br>
-
+<br>
 
 
 ### 🌐 Socials:
@@ -21,7 +21,8 @@
 [![Behance](https://img.shields.io/badge/Behance-053EFF?logo=behance&logoColor=white)](https://www.behance.net/krishnakumar203)
 
 
-
+<br>
+<br>
 
 
 ### 💻 Tech Stack:
@@ -44,14 +45,21 @@
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
 
+<br>
+<br>
 
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=krishnakumarkrish&theme=merko&hide_border=false&include_all_commits=false&count_private=false)
 
+<br>
+<br>
 
 # 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=swetha&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
 
-# ✍️ Random Dev Quote
+<br>
+<br>
+
+### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
