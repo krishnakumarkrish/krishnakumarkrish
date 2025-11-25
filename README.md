@@ -45,7 +45,7 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=swetha&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![krishnakumarkrish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=krishnakumarkrish&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
 
 ## 🏆 GitHub Trophies
