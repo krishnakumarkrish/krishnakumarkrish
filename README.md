@@ -1,7 +1,7 @@
 <img align="right" width="400" height="290" src="./coder_man.gif">
 
 ### 💫 About Me:
-<br>
+
 🔭 I'm Krishna Kumar, Software Engineer, DevOps Engineer, a Youtuber.
 <br>
 📫 How to reach me: krishnakumar.2015123@gmail.com
