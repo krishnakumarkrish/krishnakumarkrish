@@ -1,12 +1,13 @@
 <img align="right" width="400" height="290" src="./coder_man.gif">
 # 💫 About Me:
-🔭 I'm currently working on Devops projects<br>
-👯 I’m looking to collaborate on cloud/devops related Project<br>
-📖I'm currently learning devops tools<br>🔖Ask me about devops
-<br>📫 How to reach me: skmswetha22@gmail.com<br>
-👨‍💻 All of my projects are available at https://github.com/suvimanikandan<br>
-📝 I regularly write articles on https://medium.com/@skmswetha22<br>
-😂 Fun Fact -pronouns: she/sher<br>
+🔭 I'm Krishna Kumar, Software Engineer, DevOps Engineer, a Youtuber.
+<br>
+📫 How to reach me: krishnakumar.2015123@gmail.com
+<br>
+👨‍💻 All of my projects are available at https://github.com/krishnakumarkrish
+<br>
+😂 Fun Fact -pronouns: she/sher
+<br>
 
 
 ## 🌐 Socials:
