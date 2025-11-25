@@ -47,7 +47,7 @@
 
 
 ### 📊 GitHub Stats:
-![krishnakumarkrish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=krishnakumarkrish&theme=dark&show_icons=true&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api?username=krishnakumarkrish&theme=dark&show_icons=true&hide_border=false&include_all_commits=false&count_private=false)
 <br>
 <br>
 
