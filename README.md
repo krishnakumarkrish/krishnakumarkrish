@@ -45,10 +45,8 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=swethatheme=merko&hide_border=false&include_all_commits=false&count_private=false) <br/>
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=krishnakumarkrish&theme=merko&hide_border=false)<br/>
-
+![](https://github-readme-stats.vercel.app/api?username=swetha&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=swetha&theme=merko&hide_border=false)<br/>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=swetha&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
