@@ -11,8 +11,8 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishna-kumar-35ba771b3/) 
-[![YouTube1](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC63AiCg6IngBqtKFEvIphCA) 
-[![Youtube2](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCNTO27wuyXBbWF4IcuP9Q1Q) 
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC63AiCg6IngBqtKFEvIphCA) 
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCNTO27wuyXBbWF4IcuP9Q1Q) 
 
 
 # 💻 Tech Stack:
