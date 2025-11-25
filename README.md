@@ -44,9 +44,8 @@
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
 
 
-
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=swetha&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=krishnakumarkrish&theme=merko&hide_border=false&include_all_commits=false&count_private=false)
 
 
 ## 🏆 GitHub Trophies
